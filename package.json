@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "webdriverio": "^4.9.11"
+    "webdriverio": "^5.0.0"
   },
   "devDependencies": {
     "wdio-chromedriver-service": "^0.1.2",
